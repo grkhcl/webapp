@@ -1,0 +1,25 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "depprocureformstorage",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_OPENAI_ENDPOINT": "https://openaipractice.openai.azure.com/",
+    "AZURE_OPENAI_API_KEY": "4587162fb26b4f1185f0fa46ebec945d",
+    "AZURE_OPENAI_CHAT_DEPLOYMENT" : "gpt-35-turbo",
+    "AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT" : "text-embedding-ada",
+    "AZURE_OPENAI_API_VERSION" : "2023-05-15",
+    "AZURE_SEARCH_ENDPOINT": "https://krishaisearch.search.windows.net",
+    "AZURE_SEARCH_API_KEY": "cNV8w9NmOKU7531YbQudkPFNgOTYhNtcUkzclgwk0wAzSeBCkqFP",
+    "AZURE_SEARCH_INDEX": "products",
+    "AZURE_SPEECH_REGION": "eastus",
+    "AZURE_SPEECH_API_KEY": "b1417056e5004406a25421486a008405",
+    "TEXT_ANALYTICS_ENDPOINT": "https://krishaisearch.search.windows.net",
+    "TEXT_ANALYTICS_KEY": "cNV8w9NmOKU7531YbQudkPFNgOTYhNtcUkzclgwk0wAzSeBCkqFP",
+    "BLOB_SAS_URL": "https://depprocureformstorage.blob.core.windows.net/krishcontainer?sp=r&st=2023-11-21T08:01:21Z&se=2023-11-21T16:01:21Z&spr=https&sv=2022-11-02&sr=c&sig=Dw8xKDu9eFf52uflRgqy2bWdBglPT58xiMBxaMM2n08%3D",
+    "SQL_DB_SERVER": "krishsqlserver.database.windows.net",
+    "SQL_DB_USER": "radhakrishnanguhan",
+    "SQL_DB_PASSWORD": "Hcltech#1234",
+    "SQL_DB_NAME": "krishsql",
+    "ICE_CONNECTION_STRING": "endpoint=https://communicationservicedep.unitedstates.communication.azure.com/;accesskey=qcLFCxmZGSnqOdqqWB2autsTaDFNEjUP443SXU3meZoWVLNoeZVCsOnbttIXaR0/yN0Tsr7gql1+voER9xHU0Q=="
+  }
+}
